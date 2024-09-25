@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://koecg.github.io/fvI/sitemap.fvI.gz
